@@ -1,0 +1,21 @@
+TODO kibarashka
+
+[x] wieza yuzu na glowie
+[x] one-way platformy
+[x] krokodyl
+[x] zapis w localStorage
+[x] ekran wynikow + gwiazdki
+[x] muzyka (web audio)
+[ ] sterowanie dotykowe na telefon ???
+[ ] tryb endless (raczej nie zdaze)
+[ ] poziom 4 - za trudny skok przy drugim checkpoincie, przesunac platforme
+[ ] czasem dzwiek nie startuje na safari dopoki sie nie kliknie
+[ ] wywalic staryGracz.ts jak nowa fizyka bedzie ok
+[ ] zycia? (na razie bez, restart jest od razu)
+[x] pauza
+[x] pad
+
+pomysly:
+- skorki dla kapibary
+- ranking czasow
+- wiecej kaczek
